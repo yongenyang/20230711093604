@@ -1,0 +1,95 @@
+New CharactersVersion 1
+"Childe" Tartaglia (5-Star Hydro Bow)
+"Kätzlein Cocktail" Diona (4-Star Cryo Bow)
+"Vago Mundo" Zhongli (5-Star Geo Polearm)
+"Blazing Riff" Xinyan (4-Star Pyro Claymore)
+New WeaponsVersion 1
+Memory of Dust (5-Star Catalyst)
+Vortex Vanquisher (5-Star Polearm)
+The Unforged (5-Star Claymore)
+Royal Spear (4-Star Polearm)
+Event Wishes
+Phase 1:
+Farewell of Snezhnaya (Tartaglia & Diona)
+Phase 2:
+Gentry of Hermitage (Zhongli & Xinyan)
+New Quests
+New Archon Quest
+Chapter 1: Act III - A New Star Approaches
+New Story Quests
+Monoceros Caeli Chapter: Act I - Mighty Cyclops' Adventure!
+Historia Antiqua Chapter: Act I - Sal Flore (Available Later)
+New World Quests
+The Adventurers' Guild's Affairs
+Necessary Procedures
+Words Worth Their Weight in Mora
+Changchang's Little Friend
+The Secret of Nantianmen
+An Ode to Yonder City
+Endless Research
+Knight of the Realm
+New Events
+Unreconciled Stars
+Baptism of Song
+Gliding Challenge
+While It's Warm
+New Systems
+City Reputation SystemVersion 1
+New Gadgets from City Reputation System
+Anemoculus Resonance Stone
+Geoculus Resonance Stone
+NRE (Menu 30)
+Wind Catcher
+Portable Waypoint
+Condensed Resin
+Adepti Seeker's Stove
+Anemo Treasure Compass
+Geo Treasure Compass
+New City Features from City Reputation System
+Mining Outcrop Search
+Merchant Discounts
+New Namecard Styles from City Reputation System
+Mondstadt - Hero's Fame
+Mondstadt - Blessing
+Liyue - A Thousand Ships
+Liyue - In the Clouds
+New Recipes from City Reputation System
+Northern Apple Stew
+Adventurer's Breakfast Sandwich
+Moon Pie
+Golden Shrimp Balls
+Lotus Flower Crisp
+Tianshu Meat
+New Wind Gliders from City Reputation System
+Wings of Azure Wind
+Wings of Golden Flight
+Version 1
+Exploration Progress System
+Archive System
+Character Archive System
+New Recipes
+Triple-Layered Consommé
+Bamboo Shoot Soup
+New Achievements
+Challenger - Series II
+New Harvestable Resources
+Bamboo Shoot
+Golden Loach
+New Monster
+Unusual Hilichurl
+Settings
+Added customization options for keyboard and controller
+New customization options added to Settings > Graphics
+Volumetric Fog
+Reflections, Bloom
+Crowd Density
+Co-Op Teammate Effects.
+New options added to Settings > Other
+Combat Camera Settings
+Default Camera Distance.
+System
+Added an Equipment Locking function. Locked equipment cannot be used for enhancement or refinement.
+A Report function has been added to Co-Op Mode
+Adds a feature to weapon/artifact enhancement screen that displays item descriptions for items added as enhancement materials.
+During weapon enhancement, surplus EXP is now returned in the form of weapon enhancement materials (previously, surplus EXP was lost).
+Characters dispatched on expeditions are no longer out-of-action. They can be added to your party as usual.
