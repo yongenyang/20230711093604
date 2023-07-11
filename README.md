@@ -2,5 +2,5 @@
 This folder contains meaningless contents.<br/>
 The file type is ``.txt``.
 
-``V Class 2023.07.10.ipynb`` is a python file.
+``V Class 2023.07.10.ipynb`` is a python file.<br/>
 ``中職模擬`` folder contains a ``C Language`` project.
